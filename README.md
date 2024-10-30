@@ -16,11 +16,11 @@ Para criar titulos de nível um, será necessário usar uma hashtag. Ex # Titulo
 
 ## Titulo nível 2
 
-Para criar titulos de nível dois, será necessário usar duas hastag's. Ex: Titulo niível 2
+Para criar titulos de nível dois, será necessário usar duas hastag's. ## Ex: Titulo niível 2
 
 ### Titulo nível 3
 
-Para criar titulos de nível três, será necessário usar três hastag's. Ex: Titulo nível 3
+Para criar titulos de nível três, será necessário usar três hastag's. Ex: ### Titulo nível 3
 
 ---
 
