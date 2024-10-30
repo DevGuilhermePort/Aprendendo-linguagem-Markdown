@@ -48,20 +48,20 @@ Três asteriscos (***) também fazem está função.
 
 ![imagem_2024-10-26_214832385](https://github.com/user-attachments/assets/31a36d29-f63a-484d-bb09-e0db586633a7)
 
-# Criando links
+# Criando links:
 
 - Abrir e fechar colchetes e depois parenteses, dentro do colchete escreva a mensagem que se tornará clicavel, e dentro do parenteses o URL.
 
-Acesse meu github [aqui](https://DevGuilhermePort)
+Acesse meu github [aqui](https://github/DevGuilhermePort)
 
-# Criando tabelas
+# Criando tabelas:
 
-- Para criar a tabela devo colocar primeiro o titulo das colunas, separando os titulos com pipes ( | )
+- Para criar a tabela devo colocar primeiro o titulo das colunas, separando os titulos com pipes ( | ).
    - Ex: Nome | Nota | Turma
-- Depois devo fazer a linha de divisão da tabela, usando três sinais de menos separados por pipes ( | )
+- Depois devo fazer a linha de divisão da tabela, usando três sinais de menos separados por pipes ( | ).
    - Ex: ---|---|---
-- Em seguida adiciono os itens da tabela, separando-os com pipes também ( | )
-   - Ex: Meliisa | 10 | 303
+- Em seguida adiciono os itens da tabela, separando-os com pipes também ( | ).
+   - Ex: Melissa | 10 | 303
  
 Nome | Nota | Turma
 ---|---|---
@@ -70,20 +70,20 @@ Guilherme | 7.5 | 801
 
 # Para marcar comandos
 
-- Abra e feche crazes, escreva no meio o comando para deixa-lo marcado. Ex: `while True: `
+- Abra e feche crazes, escreva no meio o comando para deixa-lo marcado. Ex: `while True: `.
 
-- Abra e feche três creazes para escrever trechos de códigos
+- Abra e feche três creazes para escrever trechos de códigos.
 
 Ex: 
-```
+```python
 while True:
     print('Eu amo a Melissa mais que o infinito')
 ```
-# Colocando emojis
+# Colocando emojis:
 Para craiar um emoji basta colocar dois pontos (:), e em seguida o nome do emoji. Ex: 🌙
 
-# Criando quote
+# Criando quote:
 
 Basta utilizar um sinal de maior na mensagem.
 
-> Ex:
+> Ex: Criei um quote
