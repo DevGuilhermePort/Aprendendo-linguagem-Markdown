@@ -1,50 +1,50 @@
-# Aula de linguagem Markdown
+# Aula de linguagem Markdown:
 
-## Estou aprendendo linguagem **Markdown** no Curso em Vídeo de **Git** e **GitHub**
+## Estou aprendendo linguagem **Markdown** no Curso em Vídeo de **Git** e **GitHub**.
 
-Dois **asteriscos** ou dois __underline's__ para deixar em **Negrito**
+Dois **asteriscos** ou dois __underline's__ para deixar em **Negrito**.
 
-Um *asterisco* para deixar em *italico*
+Um *asterisco* para deixar em *italico*.
 
-Dois 'tio' para ~~riscar~~ textos
+Dois 'tio' para ~~riscar~~ textos.
 
-Também posso __*misturar*__ configurações
+Também posso __*~~misturar~~*__ configurações.
 
-# Titulo nivel 1
+# Titulo nivel 1:
 
-Para criar titulos de nível um, será necessário usar uma hashtag. Ex # Titulo nível 1
+Para criar titulos de nível um, será necessário usar uma hashtag. Ex # Titulo nível 1.
 
-## Titulo nível 2
+## Titulo nível 2:
 
-Para criar titulos de nível dois, será necessário usar duas hastag's. ## Ex: Titulo niível 2
+Para criar titulos de nível dois, será necessário usar duas hastag's. ## Ex: Titulo niível 2.
 
-### Titulo nível 3
+### Titulo nível 3:
 
-Para criar titulos de nível três, será necessário usar três hastag's. Ex: ### Titulo nível 3
+Para criar titulos de nível três, será necessário usar três hastag's. Ex: ### Titulo nível 3.
 
 ---
 
-Três sinais de menos seguidos (---) formam uma linha para separar coisas
+Três sinais de menos seguidos (---) formam uma linha para separar coisas.
 
-Três asteriscos (***) também fazem está função
+Três asteriscos (***) também fazem está função.
 
 ***
 
-### Para fazer listas númeradas
- 1. Utilizando um numero e um ponto final
- 2. Posso criar quantos itens forem desejados
-    1. Dando 3 espaços posso criar um subitem da lista
-    2. Os subitens viram números romanos
+### Para fazer listas númeradas:
+ 1. Utilizando um numero e um ponto final.
+ 2. Posso criar quantos itens forem desejados.
+    1. Dando 3 espaços posso criar um subitem da lista.
+    2. Os subitens viram números romanos.
 
-### Para crair listas demarcadas
-* Usar **asterisco** ou **sinal de menos**
-   * Três espaços forma subitem
-- Se usar **sinal de menos** cria uma lista separada do **asterisco**
-   - Com as mesmas funcionalidades
+### Para crair listas demarcadas:
+* Usar **asterisco** ou **sinal de menos**.
+   * Três espaços forma subitem.
+- Se usar **sinal de menos** cria uma lista separada do **asterisco**.
+   - Com as mesmas funcionalidades.
 
 ### Criar lista de tarefas
-- [ ] Para criar uma lista devo usar um sinal de menos, e abrir e fechar colchetes com um espaço dentro(- [ ] )
-   - [x] Substituir o espaço por um 'x' para  marcar o item como concluído
+- [ ] Para criar uma lista de tarefas devo usar um sinal de menos, abrir e fechar colchetes com um espaço dentro(- [ ] ).
+   - [x] Para marcar um item como concluído, devo substituir o espaço por um 'x'.
 
 ![imagem_2024-10-26_214832385](https://github.com/user-attachments/assets/31a36d29-f63a-484d-bb09-e0db586633a7)
 
