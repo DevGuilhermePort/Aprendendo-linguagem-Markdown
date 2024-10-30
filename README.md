@@ -70,7 +70,7 @@ Guilherme | 7.5 | 801
 
 # Para marcar comandos
 
-- Abra e feche crazes, escreva no meio o comando para deixa-lo marcado. Ex: `while True: `.
+- Abra e feche crazes, escreva no meio o comando para deixa-lo marcado. Ex: `while True: `
 
 - Abra e feche três creazes para escrever trechos de códigos.
 
