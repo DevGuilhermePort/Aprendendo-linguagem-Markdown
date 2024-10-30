@@ -28,6 +28,8 @@ Três sinais de menos seguidos (---) formam uma linha para separar coisas
 
 Três asteriscos (***) também fazem está função
 
+***
+
 ### Para fazer listas númeradas
  1. Utilizando um numero e um ponto final
  2. Posso criar quantos itens forem desejados
