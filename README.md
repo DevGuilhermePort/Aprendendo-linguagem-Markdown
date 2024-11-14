@@ -86,4 +86,7 @@ Para craiar um emoji basta colocar dois pontos (:), e em seguida o nome do emoji
 
 Basta utilizar um sinal de maior na mensagem.
 
-> Ex: Criei um quote
+> Ex: Criei um quote.
+> Posso usá-lo para escrever anotações;
+> citações
+> ou qualquer comentário em forma de quote
